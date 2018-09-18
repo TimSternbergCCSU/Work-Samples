@@ -1,0 +1,42 @@
+------------------------
+Bubble Sort
+------------------------
+Randomly sorted: 	Exchanges: 984966       Comparisons: 1995840
+Completely sorted: 	Exchanges: 0            Comparisons: 1999
+Sorted backwards: 	Exchanges: 1998791      Comparisons: 1999000
+------------------------
+Selection Sort
+------------------------
+Randomly sorted: 	Exchanges: 2000         Comparisons: 1999000
+Completely sorted: 	Exchanges: 2000         Comparisons: 1999000
+Sorted backwards: 	Exchanges: 2000         Comparisons: 1999000
+------------------------
+Insertion Sort
+------------------------
+Randomly sorted: 	Exchanges: 984966       Comparisons: 984972
+Completely sorted: 	Exchanges: 0            Comparisons: 1999
+Sorted backwards: 	Exchanges: 1998791      Comparisons: 1998791
+------------------------
+Quick Sort
+------------------------
+Randomly sorted: 	Exchanges: 10443        Comparisons: 37277
+Completely sorted: 	Exchanges: 2195         Comparisons: 1829924
+Sorted backwards: 	Exchanges: 3208         Comparisons: 1728874
+------------------------
+Shell Sort [Incremental Sequence: 2]
+------------------------
+Randomly sorted: 	Exchanges: 18203        Comparisons: 35070
+Completely sorted: 	Exchanges: 0            Comparisons: 17964
+Sorted backwards: 	Exchanges: 6679         Comparisons: 22862
+------------------------
+Shell Sort [Incremental Sequence: 3]
+------------------------
+Randomly sorted: 	Exchanges: 20806        Comparisons: 32245
+Completely sorted: 	Exchanges: 0            Comparisons: 12364
+Sorted backwards: 	Exchanges: 7172         Comparisons: 18004
+------------------------
+Shell Sort [Incremental Sequence: 4]
+------------------------
+Randomly sorted: 	Exchanges: 26663        Comparisons: 36088
+Completely sorted: 	Exchanges: 0            Comparisons: 10182
+Sorted backwards: 	Exchanges: 8934         Comparisons: 17945

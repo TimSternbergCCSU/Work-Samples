@@ -1,0 +1,21 @@
+395.95
+television
+550.99
+music center
+995.95
+desk-top computer
+199.95
+microwave oven
+299.99
+washing machine
+149.95
+freezer
+0
+55
+4
+78
+267
+458
+320
+25
+198

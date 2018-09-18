@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HeapSort
+comment1.params=
+comment1.target=java.lang.String\ getNameOfSort()
+comment2.params=array
+comment2.target=void\ Sort(AnyType[])
+numComments=3

@@ -1,0 +1,22 @@
+X := 1
+repeat
+   Y := N
+   while Y > 0 do
+
+     . . .          // something (the ellipsis)
+
+     Y := Y - 1
+   endwhile
+   X := X + X
+until X > N * N
+
+four main memory accesses with each access requiring 1 microsecond
+two disk file accesses with each requiring 1 millisecond
+total: 2.004 milliseconds per second
+
+big o efficiency of O( N * Log(N^2))
+This means there is NLog(N^2) statements
+1000 * Log(1000^2) * 2.004 milliseconds = 12024 milliseconds
+
+
+if N = 1000 and each statement requires 2.004 milliseconds, then the construct would take 12024 milliseconds to execute

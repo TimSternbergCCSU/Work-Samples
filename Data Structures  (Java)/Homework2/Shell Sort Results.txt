@@ -1,0 +1,18 @@
+------------------------
+Shell Sort [Incremental Sequence: 2]
+------------------------
+Average: 	Exchanges: 18203        Comparisons: 35070
+Best case: 	Exchanges: 0            Comparisons: 17964
+Worst case: 	Exchanges: 6679         Comparisons: 22862
+------------------------
+Shell Sort [Incremental Sequence: 3]
+------------------------
+Average: 	Exchanges: 20806        Comparisons: 32245
+Best case: 	Exchanges: 0            Comparisons: 12364
+Worst case: 	Exchanges: 7172         Comparisons: 18004
+------------------------
+Shell Sort [Incremental Sequence: 4]
+------------------------
+Average: 	Exchanges: 26663        Comparisons: 36088
+Best case: 	Exchanges: 0            Comparisons: 10182
+Worst case: 	Exchanges: 8934         Comparisons: 17945
