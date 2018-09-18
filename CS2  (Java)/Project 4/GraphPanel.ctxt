@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GraphPanel()
+comment1.params=page
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=page\ p1\ p2
+comment2.target=void\ arrow(java.awt.Graphics,\ java.awt.Point,\ java.awt.Point)
+numComments=3

@@ -1,0 +1,8 @@
+John Smith   90 
+Sarah Barnes 75
+Mark Riley   80 
+Laura Getz   72
+Larry Smith  95
+Frank Phelps 75
+Mario Guzman 60
+Marsha Grant 85
