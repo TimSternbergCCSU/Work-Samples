@@ -1,6 +1,6 @@
-# Tim Sternberg
+# Tim About Me | Projects
 
-I've been coding since I was 11 years old, and I absolutely fell in love with it. It's been something that I've always had to plug my creativity into, and I have so much fun putting things from my brain into something that other people can see, share, and hopefully enjoy as well.
+I've been coding since I was in middle school, and I absolutely fell in love with it. It's been something that I've always had to plug my creativity into, and I have so much fun putting things from my brain into something that other people can see, share, and hopefully enjoy as well.
 
 These are most of my projects throughout my college career, as well as some side projects. Any of the LUA code I did on my own time, and was probably my favorite. The most fun I had with coding projects in school was the Honey Encryption for Computer Security, and the Fingerprint Sensor for Systems Programming. Those two projects I put a lot of work into, and I was really happy with the results.
 
