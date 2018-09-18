@@ -1,4 +1,4 @@
-# Tim About Me | Projects
+# About Me | Projects
 
 I've been coding since I was in middle school, and I absolutely fell in love with it. It's been something that I've always had to plug my creativity into, and I have so much fun putting things from my brain into something that other people can see, share, and hopefully enjoy as well.
 
