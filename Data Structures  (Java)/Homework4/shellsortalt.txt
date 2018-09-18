@@ -1,0 +1,41 @@
+    public void Sort1(AnyType[] array) {
+        AnyType temp;
+        int numOfComparisons=0, numOfExchanges=0;
+        int IncrementalSequence = 3;
+
+        int h = 1;
+        while (h <= array.length / IncrementalSequence) {
+            h = h * IncrementalSequence + 1;
+        }
+        //System.out.println();
+
+        while (h > 0) {
+            
+            for (int i=h; i < array.length; i++) { // Start segmentedinsertionsort
+                temp = array[i];
+                int j = i;
+                
+                while (j > h-1 && array[j-h].isBetterThan(temp)) {
+                    array[j] = array[j-h];
+                    numOfExchanges++;
+                    numOfComparisons++;
+                    j -= h;
+                }
+
+                if (j > h-1 && temp.isBetterThan(array[j-h]))
+                    numOfComparisons++;
+
+                array[j] = temp;
+            } // End segmentedinsertionsort
+            
+            h = (h-1) / IncrementalSequence; 
+        }
+
+//         for (int i=0; i<array.length; i++)
+//         {
+//             array[i].PrintVal();
+//         }
+
+        // Will print out the exchanges and comparisons when we run the Main Program
+        System.out.printf("%-25s%s", "\tExchanges: " + numOfExchanges, "Comparisons: " + numOfComparisons);
+    }

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=token
+comment0.target=int\ TokenPriority(java.lang.String)
+comment1.params=
+comment1.target=int\ InfixPriority()
+comment2.params=
+comment2.target=int\ StackPriority()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AnyType
+comment0.text=\r\n\ Tim\ Sternberg\r\n
+comment1.params=datum
+comment1.target=boolean\ isBetterThan(AnyType)
+comment2.params=
+comment2.target=void\ PrintVal()
+numComments=3

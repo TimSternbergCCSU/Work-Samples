@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SortType
+comment0.text=\r\n\ Tim\ Sternberg\r\n
+comment1.params=array
+comment1.target=void\ Sort(AnyType[])
+comment2.params=
+comment2.target=java.lang.String\ getNameOfSort()
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=QuickSort
+comment1.params=
+comment1.target=java.lang.String\ getNameOfSort()
+comment2.params=array\ low\ high
+comment2.target=int\ Partition(AnyType[],\ int,\ int)
+comment3.params=array\ low\ high
+comment3.target=void\ QuickSort(AnyType[],\ int,\ int)
+comment4.params=array
+comment4.target=void\ Sort(AnyType[])
+numComments=5
