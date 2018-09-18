@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=a\ b\ c\ d
+comment0.target=Wallet(int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getSingles()
+comment10.params=
+comment10.target=int\ totalMoney()
+comment2.params=
+comment2.target=int\ getFives()
+comment3.params=
+comment3.target=int\ getTens()
+comment4.params=
+comment4.target=int\ getTwenties()
+comment5.params=val
+comment5.target=void\ setSingles(int)
+comment6.params=val
+comment6.target=void\ setFives(int)
+comment7.params=val
+comment7.target=void\ setTens(int)
+comment8.params=val
+comment8.target=void\ setTwenties(int)
+comment9.params=money
+comment9.target=void\ getMoney(int)
+numComments=11
